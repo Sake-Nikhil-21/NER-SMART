@@ -1,0 +1,6 @@
+{
+  "name": "ROAD_NAVI — North East Smart Logistics & Accessibility Intelligence",
+  "description": "AI-Based Smart Logistics and Accessibility Intelligence Platform for the North Eastern Region (NER) - Real-time terrain safety, predictive landslide alerts, explainable AI route scoring, what-if risk simulation, logistics optimization, and accessibility intelligence across 8 NER states.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
